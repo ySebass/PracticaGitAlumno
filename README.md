@@ -1,3 +1,4 @@
+[![Programador](https://files.catbox.moe/vid7rh.jpg)](https://files.catbox.moe/vid7rh.jpg)
 # PracticaGitAlumno
 
 ## Objetivo
